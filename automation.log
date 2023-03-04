@@ -1,0 +1,23 @@
+02/28/2023 07:06:19 AM - login Test - INFO - ************** Test_001_Login **************
+02/28/2023 07:06:19 AM - login Test - INFO - ************** verifying homepage title **************
+02/28/2023 07:06:25 AM - login Test - INFO - ************** Homepage title is matched with expected title **************
+02/28/2023 07:06:29 AM - login Test - INFO - ************** verfying login test **************
+02/28/2023 07:06:29 AM - login Test - INFO - ************** verfying for login page title  **************
+02/28/2023 07:06:39 AM - login Test - INFO - ************** loginpage title is  matched with expected title **************
+02/28/2023 07:31:40 AM - Test_001_Login - INFO - ************** Test_001_Login **************
+02/28/2023 07:31:40 AM - Test_001_Login - INFO - ************** verifying homepage title **************
+02/28/2023 07:31:47 AM - Test_001_Login - INFO - ************** Homepage title is matched with expected title **************
+02/28/2023 07:31:51 AM - Test_001_Login - INFO - ************** verfying login test **************
+02/28/2023 07:31:51 AM - Test_001_Login - INFO - ************** verfying for login page title  **************
+02/28/2023 07:32:00 AM - Test_001_Login - INFO - ************** loginpage title is  matched with expected title **************
+02/28/2023 07:33:02 AM - Test_001_Login - INFO - ************** Test_001_Login **************
+02/28/2023 07:33:02 AM - Test_001_Login - INFO - ************** verifying homepage title **************
+02/28/2023 07:33:08 AM - Test_001_Login - ERROR - ************** Homepage title is not matched with expected title **************
+02/28/2023 07:33:12 AM - Test_001_Login - INFO - ************** verfying login test **************
+02/28/2023 07:33:12 AM - Test_001_Login - INFO - ************** verfying for login page title  **************
+02/28/2023 07:42:57 AM - Test_001_Login - INFO - ************** Test_001_Login **************
+02/28/2023 07:42:57 AM - Test_001_Login - INFO - ************** verifying homepage title **************
+02/28/2023 07:43:05 AM - Test_001_Login - ERROR - ************** Homepage title is not matched with expected title **************
+02/28/2023 07:43:10 AM - Test_001_Login - INFO - ************** verfying login test **************
+02/28/2023 07:43:10 AM - Test_001_Login - INFO - ************** verfying for login page title  **************
+02/28/2023 07:43:19 AM - Test_001_Login - ERROR - ************** Loginpage title is  not matched with expected title **************

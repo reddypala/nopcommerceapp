@@ -1,0 +1,40 @@
+1677557015005	geckodriver	INFO	Listening on 127.0.0.1:50191
+1677557018041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\varar\\AppData\\Local\\Temp\\rust_mozprofileBY88pA"
+1677557018597	Marionette	INFO	Marionette enabled
+1677557018603	Marionette	INFO	Listening on port 50201
+Read port: 50201
+WebDriver BiDi listening on ws://127.0.0.1:50192
+1677557018782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\varar\\AppData\\Local\\Temp\\rust_mozprofileBY88pA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50192/devtools/browser/5b06de41-f903-4a0f-be41-3d65a279e6d2
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1677557029664	Marionette	INFO	Stopped listening on port 50201
+1677557034256	geckodriver	INFO	Listening on 127.0.0.1:50236
+1677557037280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\varar\\AppData\\Local\\Temp\\rust_mozprofilegQU2JD"
+1677557037615	Marionette	INFO	Marionette enabled
+1677557037621	Marionette	INFO	Listening on port 50246
+WebDriver BiDi listening on ws://127.0.0.1:50237
+Read port: 50246
+1677557037862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\varar\\AppData\\Local\\Temp\\rust_mozprofilegQU2JD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50237/devtools/browser/c385b748-9246-47b6-a043-ca48cfb2a512
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1677557050404	Marionette	INFO	Stopped listening on port 50246
+1677557504955	geckodriver	INFO	Listening on 127.0.0.1:50757
+1677557507988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\varar\\AppData\\Local\\Temp\\rust_mozprofileiy9PUJ"
+1677557508388	Marionette	INFO	Marionette enabled
+1677557508397	Marionette	INFO	Listening on port 50776
+Read port: 50776
+WebDriver BiDi listening on ws://127.0.0.1:50758
+1677557508812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\varar\\AppData\\Local\\Temp\\rust_mozprofileiy9PUJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50758/devtools/browser/5cd2557c-5db2-4651-89bf-93466ea292c0
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1677557518844	Marionette	INFO	Stopped listening on port 50776
+TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1677557522394	Marionette	INFO	Stopped listening on port 50775
