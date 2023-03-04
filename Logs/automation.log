@@ -205,3 +205,44 @@
 03/03/2023 07:19:04 PM - Test_001_Login - INFO - ************** verfying login test **************
 03/03/2023 07:19:04 PM - Test_001_Login - INFO - ************** verfying for login page title  **************
 03/03/2023 07:19:13 PM - Test_001_Login - INFO - ************** loginpage title is  matched with expected title **************
+03/04/2023 11:24:18 AM - Test_001_Login - INFO - ************** Test_001_Login **************
+03/04/2023 11:24:18 AM - Test_001_Login - INFO - ************** verifying homepage title **************
+03/04/2023 11:24:24 AM - Test_001_Login - INFO - ************** Homepage title is matched with expected title **************
+03/04/2023 11:24:27 AM - Test_001_Login - INFO - ************** verfying login test **************
+03/04/2023 11:24:27 AM - Test_001_Login - INFO - ************** verfying for login page title  **************
+03/04/2023 11:24:35 AM - Test_001_Login - INFO - ************** loginpage title is  matched with expected title **************
+03/04/2023 12:02:37 PM - Test_001_Login - INFO - ************** Test_001_Login **************
+03/04/2023 12:02:37 PM - Test_001_Login - INFO - ************** verifying homepage title **************
+03/04/2023 12:02:44 PM - Test_001_Login - INFO - ************** Homepage title is matched with expected title **************
+03/04/2023 12:02:48 PM - Test_001_Login - INFO - ************** verfying login test **************
+03/04/2023 12:02:48 PM - Test_001_Login - INFO - ************** verfying for login page title  **************
+03/04/2023 12:02:59 PM - Test_001_Login - INFO - ************** loginpage title is  matched with expected title **************
+03/04/2023 12:39:11 PM - Test_001_Login - INFO - ************** Test_001_Login **************
+03/04/2023 12:39:11 PM - Test_001_Login - INFO - ************** verifying homepage title **************
+03/04/2023 12:39:18 PM - Test_001_Login - INFO - ************** Homepage title is matched with expected title **************
+03/04/2023 12:39:22 PM - Test_001_Login - INFO - ************** verfying login test **************
+03/04/2023 12:39:22 PM - Test_001_Login - INFO - ************** verfying for login page title  **************
+03/04/2023 12:39:31 PM - Test_001_Login - INFO - ************** loginpage title is  matched with expected title **************
+03/04/2023 12:55:54 PM - Test_001_Login - INFO - ************** Test_001_Login **************
+03/04/2023 12:55:54 PM - Test_001_Login - INFO - ************** verifying homepage title **************
+03/04/2023 12:56:00 PM - Test_001_Login - INFO - ************** Homepage title is matched with expected title **************
+03/04/2023 12:56:03 PM - Test_001_Login - INFO - ************** verfying login test **************
+03/04/2023 12:56:03 PM - Test_001_Login - INFO - ************** verfying for login page title  **************
+03/04/2023 12:56:13 PM - Test_001_Login - INFO - ************** loginpage title is  matched with expected title **************
+03/04/2023 12:56:58 PM - Test_001_Login - INFO - ************** Test_001_Login **************
+03/04/2023 12:56:58 PM - Test_001_Login - INFO - ************** verifying homepage title **************
+03/04/2023 12:57:04 PM - Test_001_Login - INFO - ************** Homepage title is matched with expected title **************
+03/04/2023 12:57:08 PM - Test_001_Login - INFO - ************** verfying login test **************
+03/04/2023 12:57:08 PM - Test_001_Login - INFO - ************** verfying for login page title  **************
+03/04/2023 12:57:16 PM - Test_001_Login - INFO - ************** loginpage title is  matched with expected title **************
+03/04/2023 12:57:43 PM - Test_003_AddCustomer - INFO - *********Test_003_AddCustomer*******
+03/04/2023 12:57:49 PM - Test_003_AddCustomer - INFO - ***** Login Successful ********
+03/04/2023 12:57:49 PM - Test_003_AddCustomer - INFO - ****** Starting Add Customers Test *******
+03/04/2023 12:57:56 PM - Test_003_AddCustomer - INFO - ******* Providing customer details **********
+03/04/2023 12:58:05 PM - Test_003_AddCustomer - INFO - ********* saving customer info *****
+03/04/2023 12:58:05 PM - Test_003_AddCustomer - INFO - *********** Add customer validation started
+03/04/2023 12:58:06 PM - Test_003_AddCustomer - INFO - ******* Add customer test passed******
+03/04/2023 12:58:06 PM - Test_003_AddCustomer - INFO - *************** End of the Add Customer Test **********
+03/04/2023 12:58:10 PM - Test_001_Login - INFO - ************** verfying login test **************
+03/04/2023 12:58:10 PM - Test_001_Login - INFO - ************** verfying for login page title  **************
+03/04/2023 12:58:22 PM - Test_001_Login - INFO - ************** loginpage title is  matched with expected title **************

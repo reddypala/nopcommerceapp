@@ -8,7 +8,7 @@ from selenium.webdriver.firefox.service import Service as FirefoxService
 from webdriver_manager.firefox import GeckoDriverManager
 
 @pytest.fixture
-def setup(browser):
+def setup(request,browser):
     if browser == 'chrome':
         driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
     elif browser == 'edge':
@@ -16,7 +16,7 @@ def setup(browser):
     elif browser == 'firefox':
         driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
 
-    #driver.maximize_window()
+    driver.maximize_window()
     return driver
 
 def pytest_addoption(parser):    # This will get the value from CLI/hook
@@ -32,11 +32,11 @@ def browser(request):        #This will return browser value to the setup method
 def pytest_configure(config):
     config._metadata['Project Name'] = 'nop Commerce'
     config._metadata['Module Name'] = 'Customers'
-    config._metadata['Tester'] = 'Ashok'
+    config._metadata['Tester'] = 'Appala Reddy Pala'
 
 #It is hook for delete/Modify environment info to html report
 
-pytest.hookimpl(optionalhook=True)
+@pytest.hookimpl(optionalhook=True)
 def pytest_metadata(metadata):
     metadata.pop("JAVA_HOME",None)
     metadata.pop("Plugins",None)
